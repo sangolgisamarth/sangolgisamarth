@@ -1,11 +1,11 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Samarth%20S%20Sangolgi&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Samarth%20S%20Sangolgi&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <!-- Subtitle with typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Data+Scientist;ML+Engineer;Full-Stack+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Data+Science+Enthusiast;Full-Stack+Developer;Problem+Solver" />
 </h1>
 
 <!-- Quote -->
@@ -13,14 +13,9 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 Profile  
 
-- 🎓 2nd Year **BE Artificial Intelligence & Data Science** student at **PVG COET Pune**  
-- 🚀 Experienced in **Machine Learning, Django, and Full-Stack Development**  
-- 🏆 Built real-world projects (IoT, AI, Web Apps) and participated in hackathons  
-- 🎨 Known as the **"Tech Translator"** among peers — I simplify complex concepts  
-- 💡 Passionate about building impactful solutions that blend **AI + Creativity**  
-- ⚡ Fun fact: I can debug code faster than I solve a Rubik’s cube  
+AI & Data Science student with hands-on experience in **machine learning, data analysis, and full-stack development**. Skilled in model building, IoT integration, and deploying scalable applications. Passionate about applying AI to solve real-world problems.  
 
 ---
 
@@ -38,40 +33,6 @@
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br>MySQL</td>
   </tr>
 </table>
-
----
-
-## 🚀 Projects  
-
-### 🔹 Cricket Score Prediction  
-📌 **Tech:** Random Forest · Django · APIs  
-- Predicted **first-innings scores** and **win/loss probability** using ML models.  
-- Integrated **chatbot & real-time analytics**, deployed as a full-stack solution.  
-
----
-
-### 🔹 Smart Dustbin Monitoring System (IoT-Based)  
-📌 **Tech:** Arduino Uno · ESP8266 · Django · Sensors  
-- Developed an **IoT-enabled dustbin** to monitor and detect waste levels.  
-- Built a **Django web interface** for real-time fill status with **automatic alerts**.  
-
----
-
-### 🔹 Smart Analytics Dashboard  
-📌 **Tech:** Django · React · TensorFlow · PostgreSQL  
-✅ Status: **Production Ready**  
-
----
-
-### 🔹 Multilingual Sentiment Analysis  
-📌 **Tech:** PyTorch · Transformers · FastAPI  
-🔬 Status: **Research Phase**  
-
----
-
-### 🔹 ML Pipeline Orchestrator  
-📌 **Tech:** Python · Kubernetes · Docker  
-⚡ Status: **In Development**  
 
 ---
 
@@ -113,7 +74,7 @@
 </div>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=100&section=footer"/>
 
 <div align="center">
 
