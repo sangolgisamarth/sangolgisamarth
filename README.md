@@ -89,9 +89,9 @@
 ## 🤝 Connect with Me
 
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f2fe?style=for-the-badge&logo=About.me&logoColor=00d9ff)](https://sangolgisamarth.github.io/portfolio-website/) 
-[![Email](https://img.shields.io/badge/Email-00f2fe?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:samarthsangolgi07@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00f2fe?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://www.linkedin.com/in/samarth-sangolgi-0932b7344) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f2fe?style=for-the-badge&logo=About.me&logoColor=00d9ff)](https://sangolgisamarth.github.io/portfolio-website/) &nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-00f2fe?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:samarthsangolgi07@gmail.com) &nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00f2fe?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://www.linkedin.com/in/samarth-sangolgi-0932b7344) &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-00f2fe?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sangolgisamarth)
 </div>
 
