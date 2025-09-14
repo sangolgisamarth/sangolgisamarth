@@ -86,19 +86,19 @@
 
 ---
 
-## 🤝 Connect with Me  
+## 🤝 Connect with Me
 
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=About.me&logoColor=00d9ff)](https://sangolgisamarth.github.io/portfolio-website/)  
-[![Email](https://img.shields.io/badge/Email-203a43?style=for-the-badge&logo=gmail&logoColor=ff5757)](mailto:samarthsangolgi07@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2c5364?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://www.linkedin.com/in/samarth-sangolgi-0932b7344)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangolgisamarth)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f2fe?style=for-the-badge&logo=About.me&logoColor=00d9ff)](https://sangolgisamarth.github.io/portfolio-website/) 
+[![Email](https://img.shields.io/badge/Email-00f2fe?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:samarthsangolgi07@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00f2fe?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://www.linkedin.com/in/samarth-sangolgi-0932b7344) 
+[![GitHub](https://img.shields.io/badge/GitHub-00f2fe?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sangolgisamarth)
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sangolgisamarth&style=for-the-badge&color=00d9ff" />
+  <img src="https://komarev.com/ghpvc/?username=sangolgisamarth&style=for-the-badge&color=00f2fe" />
 </div>
 
 <!-- Footer -->
