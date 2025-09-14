@@ -15,9 +15,9 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 3rd Year **BE Artificial Intelligence & Data Science** student at **PVG COET Pune**  
+- 🎓 2nd Year **BE Artificial Intelligence & Data Science** student at **PVG COET Pune**  
 - 🚀 Experienced in **Machine Learning, Django, and Full-Stack Development**  
-- 🏆 Led multiple **Hackathon Teams** and built real-world projects (IoT, AI, Web Apps)  
+- 🏆 Built real-world projects (IoT, AI, Web Apps) and participated in hackathons  
 - 🎨 Known as the **"Tech Translator"** among peers — I simplify complex concepts  
 - 💡 Passionate about building impactful solutions that blend **AI + Creativity**  
 - ⚡ Fun fact: I can debug code faster than I solve a Rubik’s cube  
@@ -41,27 +41,37 @@
 
 ---
 
-## 🚀 Current Projects  
+## 🚀 Projects  
 
-<div align="center">
+### 🔹 Cricket Score Prediction  
+📌 **Tech:** Random Forest · Django · APIs  
+- Predicted **first-innings scores** and **win/loss probability** using ML models.  
+- Integrated **chatbot & real-time analytics**, deployed as a full-stack solution.  
+
+---
+
+### 🔹 Smart Dustbin Monitoring System (IoT-Based)  
+📌 **Tech:** Arduino Uno · ESP8266 · Django · Sensors  
+- Developed an **IoT-enabled dustbin** to monitor and detect waste levels.  
+- Built a **Django web interface** for real-time fill status with **automatic alerts**.  
+
+---
 
 ### 🔹 Smart Analytics Dashboard  
-📌 Tech: Django · React · TensorFlow · PostgreSQL  
+📌 **Tech:** Django · React · TensorFlow · PostgreSQL  
 ✅ Status: **Production Ready**  
 
 ---
 
 ### 🔹 Multilingual Sentiment Analysis  
-📌 Tech: PyTorch · Transformers · FastAPI  
+📌 **Tech:** PyTorch · Transformers · FastAPI  
 🔬 Status: **Research Phase**  
 
 ---
 
 ### 🔹 ML Pipeline Orchestrator  
-📌 Tech: Python · Kubernetes · Docker  
+📌 **Tech:** Python · Kubernetes · Docker  
 ⚡ Status: **In Development**  
-
-</div>
 
 ---
 
@@ -90,9 +100,9 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://sangolgisamarth.github.io/portfolio-website/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangolagisamarth@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-sangolgi)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samarthsangolgi)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthsangolgi07@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-sangolgi-0932b7344)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangolgisamarth)  
 
 </div>
 
