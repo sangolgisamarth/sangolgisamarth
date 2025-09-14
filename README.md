@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samarth%20S%20Sangolgi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Samarth%20S%20Sangolgi&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <!-- Subtitle with typing animation -->
@@ -11,15 +11,16 @@
 <!-- Quote -->
 <h3 align="center">💡 "The best way to predict the future is to create it!"</h3>
 
-<div align="center">
- 
-🔭 Working on **Production ML Systems & Scalable Web Apps**  
-🌱 Learning **MLOps, Kubernetes & Deep Learning**  
-💬 Ask me about **Python, Django, Machine Learning, System Design**  
-📫 Reach me at **sangolagisamarth@example.com**  
-⚡ Fun fact: **I solve complex problems faster than I solve Rubik's cubes!**
+---
 
-</div>
+## 👨‍💻 About Me  
+
+- 🎓 3rd Year **BE Artificial Intelligence & Data Science** student at **PVG COET Pune**  
+- 🚀 Experienced in **Machine Learning, Django, and Full-Stack Development**  
+- 🏆 Led multiple **Hackathon Teams** and built real-world projects (IoT, AI, Web Apps)  
+- 🎨 Known as the **"Tech Translator"** among peers — I simplify complex concepts  
+- 💡 Passionate about building impactful solutions that blend **AI + Creativity**  
+- ⚡ Fun fact: I can debug code faster than I solve a Rubik’s cube  
 
 ---
 
@@ -27,30 +28,44 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" /><br>Python</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" /><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" /><br>Django</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" /><br>React</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" /><br>Docker</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" /><br>Kubernetes</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" /><br>AWS</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" /><br>MySQL</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="48" height="48"/><br>TensorFlow</td>
-    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" width="48" height="48"/><br>PyTorch</td>
-    <td align="center" width="96"><img src="https://github.com/scikit-learn/scikit-learn/raw/main/doc/logos/scikit-learn-logo-small.png" width="48" height="48"/><br>Scikit-Learn</td>
-    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="48" height="48"/><br>Pandas</td>
-    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48"/><br>Git</td>
-    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48"/><br>GitHub</td>
-    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48"/><br>Postman</td>
-    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="48" height="48"/><br>HTML</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="65"/><br>Django</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br>React</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65"/><br>Kubernetes</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br>MySQL</td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Current Projects  
+
+<div align="center">
+
+### 🔹 Smart Analytics Dashboard  
+📌 Tech: Django · React · TensorFlow · PostgreSQL  
+✅ Status: **Production Ready**  
+
+---
+
+### 🔹 Multilingual Sentiment Analysis  
+📌 Tech: PyTorch · Transformers · FastAPI  
+🔬 Status: **Research Phase**  
+
+---
+
+### 🔹 ML Pipeline Orchestrator  
+📌 Tech: Python · Kubernetes · Docker  
+⚡ Status: **In Development**  
+
+</div>
+
+---
+
+## 📊 GitHub Analytics  
 
 <div align="center">
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=sangolgisamarth&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
@@ -70,23 +85,30 @@
 
 ---
 
-## 🚀 Current Projects
+## 🤝 Let's Connect  
 
-```typescript
-interface Projects {
-  aiPlatform: {
-    name: "Smart Analytics Dashboard";
-    tech: ["Django", "React", "TensorFlow", "PostgreSQL"];
-    status: "Production Ready";
-  };
-  research: {
-    name: "Multilingual Sentiment Analysis";
-    tech: ["PyTorch", "Transformers", "FastAPI"];
-    status: "Research Phase";
-  };
-  openSource: {
-    name: "ML Pipeline Orchestrator";
-    tech: ["Python", "Kubernetes", "Docker"];
-    status: "Development";
-  };
-}
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://sangolgisamarth.github.io/portfolio-website/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangolagisamarth@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-sangolgi)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samarthsangolgi)  
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sangolgisamarth&style=for-the-badge&color=orange" />
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=100&section=footer"/>
+
+<div align="center">
+
+💭 *"Every expert was once a beginner. Every pro was once an amateur."*  
+
+⭐ *If you like my work, consider giving it a star!*  
+
+</div>
