@@ -1,112 +1,123 @@
-<!-- Header Section -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Samarth%20S%20Sangolgi&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=00d9ff" />
-</p>
-
-<!-- Subtitle with typing animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=60&duration=4000&color=00d9ff&lines=Data+Science+Enthusiast;Full-Stack+Developer;Problem+Solver" />
-</h1>
-
----
-
-## 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br>C++</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br>C</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/><br>Scikit-Learn</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/512px-Tensorflow_logo.svg.png" width="50"/><br>ML</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>NLP</td>
-    <td align="center"><img src="https://spacy.io/images/logo.svg" width="50"/><br>SpaCy</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/NLTK_logo.png/240px-NLTK_logo.png" width="50"/><br>NLTK</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/><br>Postman</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br>Figma</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>GitHub</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>Linux</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50"/><br>Ubuntu</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/><br>Windows</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PowerShell_5.0_icon.png/240px-PowerShell_5.0_icon.png" width="50"/><br>PowerShell</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/><br>Shell</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="50"/><br>Pandas</td>
-    <td align="center"><img src="https://numpy.org/images/logo.svg" width="50"/><br>NumPy</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/><br>Flask</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/><br>Django</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/><br>FastAPI</td>
-    <td align="center"><img src="https://matplotlib.org/stable/_static/logo2.svg" width="50"/><br>Matplotlib</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>Docker</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/><br>Canva</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/><br>TensorFlow</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>VS Code</td>
-    <td align="center"><img src="https://render.com/favicon.ico" width="50"/><br>Render</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/><br>Arduino</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/><br>Excel</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=sangolgisamarth&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sangolgisamarth&layout=compact&show_icons=true&theme=tokyonight&border_radius=10" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Hi%20There,%20I'm%20Samarth%20👋&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
+
+<br/>
+
+<a href="https://sangolgisamarth.github.io/portfolio-website/">
+  <img src="https://img.shields.io/badge/Portfolio-visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:samarthsangolgi07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/samarth-sangolgi-0932b7344">
+  <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/sangolgisamarth">
+  <img src="https://img.shields.io/badge/GitHub-follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+full-stack+apps+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%9A%80" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sangolgisamarth&theme=tokyonight&border_radius=10" />
-</div>
+<br/>
+
+<!-- ===================== ABOUT ===================== -->
+## 🧭 About Me
+
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+- 🔭 Currently exploring **Data Science, NLP & ML-powered apps**
+- 🌱 Deepening my skills in **Full-Stack Development**
+- 🤝 Open to collaborating on **AI/ML** and **web** projects
+- ⚡ Fun fact: I enjoy turning messy data into clean, usable insights
+- 📫 Reach me at **samarthsangolgi07@gmail.com**
+
+<br clear="right"/>
 
 ---
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangolgisamarth&theme=tokyonight&bg_color=0f2027&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🤝 Connect with Me
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f2fe?style=for-the-badge&logo=About.me&logoColor=00d9ff)](https://sangolgisamarth.github.io/portfolio-website/)
-[![Email](https://img.shields.io/badge/Email-00f2fe?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:samarthsangolgi07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00f2fe?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://www.linkedin.com/in/samarth-sangolgi-0932b7344)
-[![GitHub](https://img.shields.io/badge/GitHub-00f2fe?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sangolgisamarth)
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&theme=dark" />
+
+### ML / Data Science
+<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge"/>
+
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi&theme=dark" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,windows,vscode,figma,postman&theme=dark" />
 
 </div>
 
 ---
 
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sangolgisamarth&style=for-the-badge&color=00f2fe" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sangolgisamarth&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=12&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangolgisamarth&layout=compact&theme=radical&border_radius=12&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sangolgisamarth&theme=radical&border_radius=12&hide_border=true" />
+
 </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer"/>
+---
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+## 📈 Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sangolgisamarth&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=f093fb" />
+</div>
+
+---
+
+<!-- ===================== TROPHIES ===================== -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sangolgisamarth&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
+</div>
+
+---
+
+<!-- ===================== SNAKE CONTRIBUTION ===================== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<p align="center"><i>👆 Add this via the <a href="https://github.com/Platane/snk">snk GitHub Action</a> for it to render your live snake.</i></p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sangolgisamarth&style=for-the-badge&color=8A2BE2&label=Profile+Views" />
+
+<br/><br/>
+
+### 💭 "Code is like humor. When you have to explain it, it's bad." — Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer"/>
+
+</div>
