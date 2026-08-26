@@ -1,123 +1,93 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Hi%20There,%20I'm%20Samarth%20👋&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
+# Samarth Sangolgi
 
-<br/>
+**AI & Data Science Undergraduate** · Pune, India
 
-<a href="https://sangolgisamarth.github.io/portfolio-website/">
-  <img src="https://img.shields.io/badge/Portfolio-visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:samarthsangolgi07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/samarth-sangolgi-0932b7344">
-  <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/sangolgisamarth">
-  <img src="https://img.shields.io/badge/GitHub-follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+full-stack+apps+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%9A%80" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=flat-square)](https://sangolgisamarth.github.io/portfolio-website/)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:samarthsangolgi07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-sangolgi-0932b7344)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/sangolgisamarth)
 
 </div>
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
-## 🧭 About Me
+## About
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+Undergraduate AI & Data Science student building autonomous security platforms, phishing-deception systems, LLM-powered AgriTech tools, and applied deep learning research. Focused on machine learning, RAG/LLM systems, and full-stack development — with a track record of award-winning national hackathons and published research.
 
-- 🔭 Currently exploring **Data Science, NLP & ML-powered apps**
-- 🌱 Deepening my skills in **Full-Stack Development**
-- 🤝 Open to collaborating on **AI/ML** and **web** projects
-- ⚡ Fun fact: I enjoy turning messy data into clean, usable insights
-- 📫 Reach me at **samarthsangolgi07@gmail.com**
-
-<br clear="right"/>
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&theme=dark" />
-
-### ML / Data Science
-<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn&theme=dark" />
-<img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge"/>
-
-### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=flask,django,fastapi&theme=dark" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,windows,vscode,figma,postman&theme=dark" />
-
-</div>
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sangolgisamarth&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=12&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangolgisamarth&layout=compact&theme=radical&border_radius=12&hide_border=true" />
+**B.E. Artificial Intelligence and Data Science**, PVG's College of Engineering and Technology, Pune (2023–2027) · SGPA 8.75
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sangolgisamarth&theme=radical&border_radius=12&hide_border=true" />
+## Technical Skills
 
-</div>
+| Category | Stack |
+|---|---|
+| **Core** | Python, C++, JavaScript, FastAPI, Flask, Django, Supabase, MongoDB, MySQL |
+| **AI & LLM Engineering** | LLMs, AI Agents, RAG, LangChain, Ollama, Prompt Engineering, Vector DBs, NLP, Data Pipelines |
+| **ML & Deep Learning** | TensorFlow, Keras, PyTorch, Scikit-learn, XGBoost, Random Forest, CNN (MobileNetV2, VGG19), Transfer Learning, Computer Vision |
+| **Data Science** | Pandas, NumPy, Feature Engineering, EDA, Statistical Modeling, Matplotlib, Seaborn |
+| **DevOps & Tools** | Docker, Git, CI/CD, AWS (EC2, S3), REST APIs, Postman, BeautifulSoup, Selenium |
 
----
+<br/>
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-## 📈 Contribution Activity
+## Featured Projects
+
+**SentinAI — Autonomous AI Security Platform**
+`Python` `RAG` `Docker` `Custom Reasoning Engine`
+Autonomous vulnerability detection platform combining Burp Suite-style scanning, Postman-like API testing, and Selenium automation into a single pipeline with zero external AI API calls. Engineered exploit chaining linking 10+ scattered bugs into one critical attack path, with auto test generation, Zero Trust simulation, financial-impact reporting, and Jira auto-ticketing.
+🏆 1st Runner-Up, MITWPU Ciphathon 26 (30+ national teams)
+
+**HoneyPhish — AI-Resistant Phishing Detection & Deception Framework**
+`Python` `ML` `NLP` `Flask` `Chrome Extension`
+AI-powered phishing/AI-origin detection system with a deception engine deploying fake personas and a honeypot to trap and behaviorally analyze attackers in real time. Automated extraction of 30+ URL/content features achieving 94% detection accuracy at sub-200ms, with a live threat dashboard and Chrome extension for in-browser scanning.
+
+**Krishi Sahayak — AI AgriTech Platform**
+`Python` `FastAPI` `LLMs` `NLP` `Deepfake Detection`
+LLM-powered farmer assistance platform covering 50+ government schemes, crop insurance, and agricultural credit, grounded in research on policy barriers to farmer credit access in India. Integrated a DeepFake Detection Hub (88% accuracy) for scheme/insurance fraud and a personalized LMS for financial literacy.
+🏆 Best Solution Award, Innovate You National Techathon 3.0 (450+ teams)
+
+**Banana Shelf-Life Prediction — Deep Learning Research**
+`Python` `TensorFlow` `MobileNetV2` `Transfer Learning` `Computer Vision`
+MobileNetV2 regression model for real-time banana spoilage estimation, achieving R² = 0.91 across 5 ripeness stages, outperforming VGG19 and MobileNetV3 baselines. Published a custom longitudinal CV dataset (1,200+ images) on Mendeley Data; research paper in progress under R&D Cell, PVGCOET.
+
+<br/>
+
+## Experience
+
+**Research Intern — PVGCOET R&D Cell, Pune**
+*Jan 2026 – Mar 2026*
+- Developed a MobileNetV2-based regression model (TensorFlow/Keras) for banana shelf-life estimation (R² = 0.91); created and published a custom longitudinal dataset on Mendeley Data.
+- Expanded dataset to 1,200+ annotated images via augmentation; benchmarked 3 CNN architectures using loss-curve analysis; co-authored a research paper under faculty mentorship.
+
+<br/>
+
+## Achievements & Certifications
+
+- 🏆 1st Runner-Up, MITWPU Ciphathon 26 — SentinAI
+- 🏆 Best Solution Award, Innovate You National Techathon 3.0 — Krishi Sahayak
+- TensorFlow Keras Bootcamp (OpenCV University)
+- Data Science / ML / DL / NLP Bootcamp (Udemy)
+- Deep Learning (NVIDIA)
+- NLP using Deep Learning (Analytics Vidhya)
+- Code Generation & Optimization using IBM Granite (IBM SkillsBuild)
+- Python & Django REST API (Udemy)
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sangolgisamarth&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=f093fb" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sangolgisamarth&count_private=true&show_icons=true&theme=default&hide_border=true&hide_title=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangolgisamarth&layout=compact&theme=default&hide_border=true&hide_title=true" />
 </div>
 
----
+<br/>
 
-<!-- ===================== TROPHIES ===================== -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sangolgisamarth&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
-</div>
-
----
-
-<!-- ===================== SNAKE CONTRIBUTION ===================== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<p align="center"><i>👆 Add this via the <a href="https://github.com/Platane/snk">snk GitHub Action</a> for it to render your live snake.</i></p>
-
----
-
-<!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sangolgisamarth&style=for-the-badge&color=8A2BE2&label=Profile+Views" />
-
-<br/><br/>
-
-### 💭 "Code is like humor. When you have to explain it, it's bad." — Cory House
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer"/>
+*Open to opportunities in Machine Learning, AI/LLM Engineering, and Full-Stack Development.*
 
 </div>
